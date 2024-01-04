@@ -1,9 +1,9 @@
-# Prastab Mukhopadhyay - Coding Enthusiast 👨‍💻
+# Hi I'm Prastab!!! A Coding Enthusiast 👨‍💻
 
 Welcome to my GitHub profile! I'm passionate about coding and constantly exploring new technologies. Currently diving into Spring Boot and aspiring to master Cloud Computing and DevOps.
 
 ## Tech Stack
-- HTML5
+- HTML5 <img src="https://icons8.com/icon/20909/html-5" alt="SVG Image">
 - CSS3
 - Bootstrap 5
 - Java
