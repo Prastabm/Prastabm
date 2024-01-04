@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 📘 Exploring Spring Boot, 🚀 Aspiring Cloud Computing & DevOps
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/prastab-mukhopadhyay-8b342923b/)
-- [GitHub](https://github.com/Prastabm)
-- [Twitter](https://twitter.com/PrastabCodes)
+<a href="https://www.linkedin.com/in/prastab-mukhopadhyay-8b342923b/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="40" height="40"></a>
+<a href="https://github.com/Prastabm"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"></a>
+<a href="https://twitter.com/PrastabCodes"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="40" height="40"></a>
 
 ## GitHub Stats
 ![Prastab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prastabm&show_icons=true&theme=dark)
